@@ -1,0 +1,7 @@
+[package]
+name = "rnnoise"
+version = "0.1.0"
+xq = "0.10"
+description = "Noise suppression with RNNoise: noise out of speech, 10 ms at a time, and how likely each 10 ms are speech"
+repository = "https://github.com/akainq/xq-rnnoise"
+license = "MIT OR Apache-2.0"
